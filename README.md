@@ -1,6 +1,9 @@
 # SeamlessRolling
 JavaScript 无缝滚动插件
 
+### Demo
+
+[http://demo.zhukejin.com/25-SeamlessRolling/](http://demo.zhukejin.com/25-SeamlessRolling/)
 
 ### jQuery 调用方法：
 
