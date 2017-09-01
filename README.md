@@ -1,8 +1,8 @@
 # SeamlessRolling
 JavaScript 无缝滚动插件
 
-**依赖JQ**
-调用方法：
+
+### jQuery 调用方法：
 
 ```
 $('#img1').seamlessRolling({speed: 1});
@@ -29,3 +29,7 @@ scrollLeft()
 三个函数， 如若不使用jq ，将代码提取出来作为一个函数使用即可。
 
 替换三个方法参考 [你或许不需要使用 jQuery](http://blog.zhukejin.com/archives/157)
+
+
+### 优点
+优先使用 `requestAnimationFrame`，屏幕刷新运动，效率更高
